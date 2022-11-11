@@ -1,0 +1,20 @@
+{
+  "name": "patterns-and-architectures-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "patterns",
+    "architectures",
+    "otumian",
+    "design",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC"
+}
